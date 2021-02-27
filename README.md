@@ -4,4 +4,6 @@
 3. Third paragraph
 4. Add forth one
 5. Add fifth one
-5. Add fifth one again
+5. Add fifth one again!
+6. Number six
+7. Number seven
