@@ -7,3 +7,4 @@
 5. Add fifth one again!
 6. Number six
 7. Number seven
+8. We need conflict at this row!
