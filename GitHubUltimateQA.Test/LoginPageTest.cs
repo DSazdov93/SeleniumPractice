@@ -17,7 +17,7 @@
         {
             driver = new ChromeDriver(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location));
             driver.Manage().Window.Maximize();
-            driver.Navigate().GoToUrl("https://courses.ultimateqa.com/users/sign_in");
+            driver.Navigate().GoToUrl("https://courses.ultimateqa.com/users/sign_in/");
             loginPage = new LoginPage(driver);
         }
 
